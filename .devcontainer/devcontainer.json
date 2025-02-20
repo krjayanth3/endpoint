@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+     "name": "My Codespace",
+  "shutdownTimeoutMinutes": 240
+  // You can include other configuration options as needed
+  }
+  
+}
